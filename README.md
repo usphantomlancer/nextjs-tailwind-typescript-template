@@ -1,4 +1,4 @@
-# Next.js + Tailwind CSS + TypeScript Starter and Boilerplate
+# Next.js + Tailwind CSS + TypeScript Template for Start
 
 ## Features
 
